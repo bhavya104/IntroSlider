@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CardveiwDashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Covid9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GridLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Gulzar Bhai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImageSlider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OnboardingScreen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProfileApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuizApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StaggeredGridLayout" vcs="Git" />
+  </component>
+</project>
